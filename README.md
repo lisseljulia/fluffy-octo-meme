@@ -11,4 +11,4 @@
 
 ## Otrolig mening 
 * Vi ska göra en list
-* Adderar från Toms Branch och här ska det krocka
+* Adderar från Julias branch och hoppas på konflikt
